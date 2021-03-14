@@ -1,10 +1,10 @@
 {
 	"c_project": {
 		// Directory στο οποίο βρίσκεται το πρόγραμμα
-		"dir": "programs/hello",
+		"dir": "programs/recap",
 
 		// Όνομα του εκτελέσιμου προγράμματος
-		"program": "hello",
+		"program": "recap",
 
 	},
 	"window.zoomLevel": 0.5,

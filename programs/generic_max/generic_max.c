@@ -42,9 +42,9 @@ int main() {
 
 	// Κάντε uncomment τα παρακάτω και συμπληρώστε κατάλληλα
 
-    // char* s1 = "zzz";
-    // char* s2 = "aaa";
-	// char* max_s = ...;
+     char* s1 = "zzz";
+     char* s2 = "aaa";
+	 char* max_s = ;
 
-    // printf("max of %s , %s is %s\n", s1, s2, max_s);
+     printf("max of %s , %s is %s\n", s1, s2, max_s);
 }
